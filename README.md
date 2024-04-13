@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sungso Jee</h1>
 <h3 align="center">I'm Skon Colleage student</h3>
 
-- 🔭 I’m studying on **Sepkyeong University**
+- 🔭 I’m studying on **Seokyeong University**
 
 - 🌱 I’m currently learning **Matlab**
   
