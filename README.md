@@ -7,7 +7,7 @@
   
 - 👯 I'm interested in **AI** and **Computer-Vision**
 
-- 📝 I regularly write articles on [https://velog.io/@gss5275/posts](https://velog.io/@gss5275/posts)
+- 📝 I regularly write articles on [velog.io/@gss5275/posts](https://velog.io/@gss5275/posts)
 
 - 📫 How to reach me **plzinseoul@gmail.com**
 
