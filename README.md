@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunso Jee</h1>
+<h1 align="center">Hi 👋, I'm Sungso Jee</h1>
 <h3 align="center">I'm Skon Colleage student</h3>
 
 - 🔭 I’m studying on **University**
