@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://velog.io/@gss5275/posts](https://velog.io/@gss5275/posts)
 
-- 📫 How to reach me **plzinseoul@gamil.com**
+- 📫 How to reach me **plzinseoul@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
