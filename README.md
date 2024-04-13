@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sungso Jee</h1>
 <h3 align="center">I'm Skon Colleage student</h3>
 
-- 🔭 I’m studying on **University**
+- 🔭 I’m studying on **Sepkyeong University**
 
 - 🌱 I’m currently learning **Matlab**
   
-- 👯 I'm interested in AI and Computer-Vision
+- 👯 I'm interested in **AI** and **Computer-Vision**
 
 - 📝 I regularly write articles on [https://velog.io/@gss5275/posts](https://velog.io/@gss5275/posts)
 
