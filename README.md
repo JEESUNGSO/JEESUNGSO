@@ -4,6 +4,8 @@
 - 🔭 I’m studying on **University**
 
 - 🌱 I’m currently learning **Matlab**
+  
+- 👯 I'm interested in AI and Computer-Vision
 
 - 📝 I regularly write articles on [https://velog.io/@gss5275/posts](https://velog.io/@gss5275/posts)
 
